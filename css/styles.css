@@ -294,6 +294,7 @@ body {
     .content-title{
         text-align: center;
         margin: 1rem auto;
+        font-size: 4rem;
     }
 
     .page {
